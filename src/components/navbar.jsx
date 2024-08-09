@@ -12,7 +12,7 @@ const Navbar = () => {
                 </div>
 
                 <div>
-                    <Link to="https://algozenith.com/">
+                    <Link to="https://takeuforward.org/plus">
                         <RiseOutlined className="text-white text-[40px]" />
                     </Link>
                 </div>
